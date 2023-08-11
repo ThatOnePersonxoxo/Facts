@@ -1,4 +1,4 @@
-# Facts, A project made by sakthisubha
+# Facts, A project made by ThatOnePersonxoxo
 # Used to learn facts
 # Note : It ONLY works IF you install wikipedian in terminal
 
